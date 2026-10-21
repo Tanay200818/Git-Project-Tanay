@@ -14,3 +14,7 @@ I am a student at Upgrad School OF Technology, currently learning Git and GitHub
 
 ## Contact
 - Email: tanayc547@gmail.com
+
+## Hobbies
+- Watching F1
+- Driving a Car
