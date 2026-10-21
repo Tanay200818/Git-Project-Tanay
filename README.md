@@ -11,3 +11,7 @@ I am a student at Upgrad School OF Technology, currently learning Git and GitHub
 ## Projects
 - Dev 1: Learning Git
 - Dev 2: Creating a Branch
+
+## Social Links
+- GitHub: https://github.com/Tanay200818
+- Linkedin: https://www.linkedin.com/in/tanay-chavan-tech/
